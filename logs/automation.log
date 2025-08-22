@@ -1,0 +1,10 @@
+2025-08-22 00:10:27 [main] INFO  testCases.TC01_AccountRegistrationTest - ******* Starting TC01_AccountRegistrationTest **********
+2025-08-22 00:10:28 [main] INFO  testCases.TC01_AccountRegistrationTest - click on my account
+2025-08-22 00:10:28 [main] INFO  testCases.TC01_AccountRegistrationTest - click on register
+2025-08-22 00:10:29 [main] INFO  testCases.TC01_AccountRegistrationTest - providing customer's details
+2025-08-22 00:10:35 [main] INFO  testCases.TC01_AccountRegistrationTest - Validating registration
+2025-08-22 00:10:35 [main] INFO  testCases.TC01_AccountRegistrationTest - Test passed
+2025-08-22 00:10:35 [main] INFO  testCases.TC01_AccountRegistrationTest - ******* Finishing TC01_AccountRegistrationTest **********
+2025-08-22 00:10:44 [main] INFO  testCases.TC02_LoginTest - ********** Starting TC02_LoginTest ********
+2025-08-22 00:10:45 [main] INFO  testCases.TC02_LoginTest - ********** click on login ********
+2025-08-22 00:10:46 [main] INFO  testCases.TC02_LoginTest - ********** Finishing TC02_LoginTest ********
